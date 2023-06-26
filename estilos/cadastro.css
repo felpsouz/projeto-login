@@ -4,6 +4,8 @@ paleta de cores
 
 */
 
+@media screen and (min-width: 993px){
+
 *{
     font-family: Arial, Helvetica, sans-serif;
     padding: 0px;
@@ -51,3 +53,10 @@ input{
     margin-top: 10px;
 }
 
+button{
+    color: black;
+    background-color: #e9ad36b2;
+    padding: 3px;
+    border-radius: 18px;
+}
+}

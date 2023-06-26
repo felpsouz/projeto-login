@@ -4,7 +4,7 @@ tablet de 769px ate 992px
 computador de 993px ate 1200px
 televisão acima de 1201px
 */
-@media screen and (min-width: 993px){
+@media screen and (min-width: 0px) and (max-width: 768px){
 
     *{
         font-family: Arial, Helvetica, sans-serif;
@@ -13,7 +13,7 @@ televisão acima de 1201px
         box-sizing: border-box;
     }
     body{
-        background-color: darkgoldenrod;
+        background-color: #212328;
         height: 50vh;
         width: 50vw;
         background-image: url(../imagens/pexels-pixabay-277559.jpg);
